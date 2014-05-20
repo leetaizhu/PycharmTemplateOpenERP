@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<templateSet group="Python">
+<templateSet group="OPENERP-Python">
   <template name="#!" value="#!/usr/bin/env python" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="HTML_TEXT" value="false" />
